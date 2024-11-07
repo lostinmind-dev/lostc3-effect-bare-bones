@@ -1,6 +1,6 @@
-# [Theme] Addon bare-bones
+# [Effect] Addon bare-bones
 
-There is a Lost bare-bones project for 'theme' addon type.
+There is a Lost bare-bones project for 'effect' addon type.
 
 <!-- ## Installation
 Use `lost create --theme` -->
