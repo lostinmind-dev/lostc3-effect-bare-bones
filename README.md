@@ -3,7 +3,7 @@
 There is a Lost bare-bones project for 'effect' addon type.
 
 <!-- ## Installation
-Use `lost create --theme` -->
+Use `lost create --effect` -->
 
 ## Development
 - Use `deno task build` OR `lost build` to build addon.

@@ -1,4 +1,4 @@
-import { EffectParameter } from "jsr:@lost-c3/lib@1.2.5";
+import { EffectParameter } from "jsr:@lost-c3/lib@2.0.0";
 
 const EffectParameters: EffectParameter<any>[] = [
     new EffectParameter<any>({
